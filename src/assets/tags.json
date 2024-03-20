@@ -1,0 +1,47 @@
+[
+    {
+        "id":0,
+        "tagId":32,
+        "name":"Schlüssel",
+        "desc":"Hausschlüssel",
+        "img":"tagCaseMoo.png",
+        "lastSeen":1695288097207,
+        "typeName":"Moo Cow"
+    },
+    {
+        "id":1,
+        "tagId":33,
+        "name":"Handtasche",
+        "desc":"Meine braune Lieblingstasche",
+        "img":"tagCaseLeatherStrap.png",
+        "lastSeen":1695288097207,
+        "typeName":"Leather Strap Long Brown"
+    },
+    {
+        "id":2,
+        "tagId":34,
+        "name":"Portmonnaie",
+        "desc":"Das mit den dicken Batzen",
+        "img":"tagCaseMonster.png",
+        "lastSeen":1695288097207,
+        "typeName":"Red Fraggle"
+    },
+    {
+        "id":3,
+        "tagId":35,
+        "name":"Trinkflasche",
+        "desc":"Für Gym",
+        "img":"tagCaseLeatherBrown.png",
+        "lastSeen":1695288097207,
+        "typeName":"Leather Strap Short Brown"
+    },
+    {
+        "id":4,
+        "tagId":36,
+        "name":"Sportschuhe",
+        "desc":"Abidas",
+        "img":"tagCaseLeatherWhite.png",
+        "lastSeen":1695288097207,
+        "typeName":"Leather Strap Short White"
+    }
+]
