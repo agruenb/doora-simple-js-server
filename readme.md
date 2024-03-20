@@ -1,6 +1,6 @@
 # Doora Mock Server
 
-This is a simple Node.js server for testing Doora devices.
+This is a simple Node.js server using express for managing DOORA devices.
 
 Functionality includes:
 - REST api for the Doora device to connect to
